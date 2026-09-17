@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Mirona 
-- 👀 I’m interested in software development, problem-solving, and emerging areas of computer science, such as AI and cybersecurity.
-- 🌱 I’m currently learning advanced algorithms, machine learning, and cloud computing.
-- 💞️ I’m looking to collaborate on innovative projects that challenge my programming skills and contribute to real-world solutions.
-- 📫 How to reach me: https://www.linkedin.com/in/mirona-bot%C4%83nel-460573276/
-
-<!---
-myronabotanel/myronabotanel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Mirona — a Computer Science graduate from the Technical University of Cluj-Napoca.
+- 🎓 Starting my Master's in Data Science this October, building on a Bachelor's in Computer Science (2022–2026).
+- 💻 I build full-stack applications — Java/Spring Boot, C#/.NET, React, and Angular — with a growing focus on AI/ML (PyTorch, computer vision).
+- 🔭 Some of my work: a distributed microservices system (Spring Boot, RabbitMQ, Docker), a full-stack device management app (Angular, .NET, MongoDB), and an AI-based photo restoration pipeline built for my Bachelor's thesis.
+- 🌱 Currently deepening my knowledge of machine learning and data science as I start my Master's.
+- 💼 Open to backend and full-stack developer opportunities — always happy to connect.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mirona-botanel-460573276/) or at mironabotanel@yahoo.com
