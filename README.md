@@ -4,4 +4,4 @@
 - 🔭 Some of my work: a distributed microservices system (Spring Boot, RabbitMQ, Docker), a full-stack device management app (Angular, .NET, MongoDB), and an AI-based photo restoration pipeline built for my Bachelor's thesis.
 - 🌱 Currently deepening my knowledge of machine learning and data science as I start my Master's.
 - 💼 Open to backend and full-stack developer opportunities — always happy to connect.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mirona-botanel-460573276/) or at mironabotanel@yahoo.com
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mirona-bot%C4%83nel-460573276/) or at mironabotanel@yahoo.com
